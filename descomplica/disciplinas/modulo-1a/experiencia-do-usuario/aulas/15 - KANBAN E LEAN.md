@@ -25,5 +25,15 @@ Dividido em três partes:
 
 **Feito:** Momento que a tarefa foi concluída.
 
-## Srum x Kanban
+## Scrum x Kanban
 ![[scrumban.png]]
+
+As metodologias são flexíveis a ponto de conseguirmos criar uma que adapte nossas necessidades.
+
+## Kanban na prática
+
+![[caso-kanban.png]]
+![[exemplo-caso-pratico-kanban.png]]
+
+
+[[15 - LEITURA KANBAN E LEAN]]

@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] CONTAINERS FUNDAMENTALS - 4LINUX
 - [ ] CODE LAB - VR SOFTWARE
+- [ ] ADMINISTRACAO POSTGRESQL - UNICO SKILL
 
 
 ## Em andamento
