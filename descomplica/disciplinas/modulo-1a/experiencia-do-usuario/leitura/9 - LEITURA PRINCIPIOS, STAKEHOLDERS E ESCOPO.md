@@ -1,0 +1,25 @@
+
+## Sobre gestão de projetos, pessoas e características de produtos
+
+-  Nos dias de hoje, saber executar projetos é uma necessidade real de qualquer empresa, seja ela uma startup ou uma empresa que existe há mais de cem anos. E por conta dessa necessidade, nesta aula veremos princípios e domínios da gestão de projetos.
+- O PMI - Project Management Institute é o instituto internacional responsável pelo guia que trata do gerenciamento dos projetos, o **PMBOK**. Esse guia é um livro de conhecimentos sobre gerenciamento de projetos (a sigla PMBOK é referente a Project Management Body of Knowledge). O Guia está no ano de 2022 em sua 7ª edição.
+- Neste guia são propostos 12 princípios e 8 domínios de desempenho. Os **princípios** são os pilares da gestão de projetos – a base para um profissional da área considerar no seu caminho para um projeto de sucesso. Já os **domínios** são todos os pontos que a liderança do projeto deve desempenhar bem para realizar uma entrega eficaz dos resultados do projeto.
+- Seguem os 12 princípios (tradução livre), que devem nortear todo o trabalho que será realizado ao longo de um projeto: 1. Agir com atenção, respeito, diligência; 2. Criar um ambiente de time colaborativo; 3. Engajar efetivamente com as partes interessadas; 4. Focar em valor (benefício); 5. Pensamento sistêmico; 6. Influenciar, Motivar, Aprender (Liderar); 7. Customizar; 8. Construir com qualidade; 9. Navegar na complexidade; 10. Otimizar respostas a ameaças e oportunidades; 11. Adotar adaptabilidade e resiliência; 12. Tornar disponível a mudança.
+- Seguem os 8 domínios (tradução livre) a serem desempenhados pelos líderes: 1. Cadência do ciclo de vida; 2. Planejamento (necessário para as entregas); 3. Trabalho no projeto (a execução do trabalho) mantendo a comunicação e o engajamento 4. Compromisso sólido com as partes interessadas; 5. Considerar as incertezas e ambiguidades associadas a riscos; 6. Entrega de valor; 7. Promover desenvolvimento do time; 8. Mensuração (garante que o planejamento será alcançado).
+- **Stakeholders** também são chamados de partes interessadas. As partes interessadas são indivíduos ou grupos que podem afetar ou serem afetados por uma decisão ou resultado do projeto. Nesse conceito não estão somente os clientes e donos das empresas que demandam negócios, podem estar também a sociedade, empresas parceiras, conselhos consultivos ou administrativos e outros.
+- Stakeholders podem estar envolvidos de forma direta ou de forma indireta em um projeto, e esse impacto pode ser positivo ou negativo.
+- Nas boas práticas da gestão do time de um projeto estão: Gerenciar conflitos; recompensar a equipe; dar autonomia aos envolvidos; contar com a flexibilidade para que a equipe trabalhe de forma adequada; considerar a colaboração do time; praticar a liderança; agir com responsabilidade.
+- **Premissa** é algo que você supõe como verdadeiro no início do projeto. É importante para criação de orçamentos e cronogramas, plano de negócios, mapeamento de riscos e outros documentos. Ex: Para uma empresa que oferece um serviço de buffet, uma premissa pode ser que os ingredientes estejam disponíveis no local.
+- **Escopo do projeto** é a descrição detalhada do trabalho que precisa ser feito para entregar o produto e o projeto. Ex: Para uma empresa que oferece um serviço de buffet no escopo do projeto pode estar a contratação da equipe, o aluguel de material, a compra de ingredientes, o deslocamento ao local e a preparação de pratos.
+- **Escopo do produto** é o conjunto de características e funções/funcionalidades de um produto ou serviço. Ex: Para uma empresa que oferece um serviço de buffet, no escopo do produto pode estar o cardápio com os ingredientes específicos e as respectivas quantidades de itens servidos em um evento.
+- Dentre as ferramentas que ajudam na construção de premissas e escopos, de forma colaborativa, estão: Design Sprint, Mapas Mentais, Protótipos, Entrevistas e testes com protótipos.
+
+**Atividade Extra**
+
+A partir do que foi apresentado neste módulo, principalmente no aprofundamento do tema de projetos, liderança e premissas, sugerimos o filme Apollo 13, de 1995. O filme conta a história de um dos mais dramáticos momentos da história da exploração espacial, com uma frase que ficou marcada: _"Houston, we have a problem”_ (na tradução: Houston, nós temos um problema – Houston é o nome da cidade onde ficava o centro de operações da NASA, nos Estados Unidos). A nave Apollo 13, com três astronautas a bordo e bem próxima da lua, estava com um problema sério. O filme conta sobre a missão de trazer a nave de volta à Terra.
+
+**Referência Bibliográfica**
+
+Project Management Institute (PMI). **Guia PMBOK®: Guia do Conhecimento em Gerenciamento de Projetos**. 7ª ed. Pennsylvania: PMI, 2021.
+
+[[10 - GESTÃO DE TEMPO, CUSTOS, RISCOS E COMUNICAÇÃO]]

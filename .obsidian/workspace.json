@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "67307aa0763e3582",
+    "type": "split",
+    "children": [
+      {
+        "id": "d46d969dfe045534",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e856636f1b8100c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/aulas/15 - KANBAN E LEAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87dc53ab260dfdd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "050abdf1f696947e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c162b8697ac5c06a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3109c8d9bccd81ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b576509669fe8cfb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "11673dc95584681c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d2714920ef1b881",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a98d4d7df1a55bf6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "KANBAN - CURSOS 2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f7b7171c3a4ca71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "KANBAN - CURSOS 2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cea9171feb1fb6e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2fc176fb119e6b28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "KANBAN - CURSOS 2024.md"
+              }
+            }
+          },
+          {
+            "id": "0db476bf12d0e8ee",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "floating": {
+    "id": "b18aaeef7bc89961",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0513ea965347eb78",
+        "type": "window",
+        "children": [
+          {
+            "id": "e132ffb61b9f4d7d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2f07aa7cdb32acc0",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "KANBAN - CURSOS 2024.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1036,
+        "y": 33,
+        "width": 1896,
+        "height": 1035,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2f07aa7cdb32acc0",
+  "lastOpenFiles": [
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/aulas/15 - KANBAN E LEAN.md",
+    "scrumban.png",
+    "KANBAN - CURSOS 2024.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/aulas/12 - EXECUCAO E ENCERRAMENTO DE PROJETOS TRADICIONAIS.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/leitura/14 - LEITURA PLANEJAMENTO E EXECUCAO DE UM PROJETO AGIL.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/leitura/13 - LEITURA AGIL E SCRUM.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/aulas/14 - PLANEJAMENTO E EXECUCAO DE UM PROJETO AGIL.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/encerramento-projeto 1.png",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/sprint-planning 1.png",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/scrum-planning.png",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/scrum-master-e-po.png",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/refinamento-entrega.png",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/quem-participa-scrum.png",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/product-backlog 1.png",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/planejando-o-product-backlog.png",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/partes-interessadas.png",
+    "tmp",
+    "Sem título.canvas",
+    "2024-03-03.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/aulas/13 - AGIL E SCRUM.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/leitura/12 - LEITURA EXECUCAO E ENCERRAMENTO DE PROJETOS TRADICIONAIS.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/leitura/11 - LEITURA CANVAS DE PROJETOS.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/aulas/11 - CANVAS DE PROJETOS.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/leitura/10 - LEITURA GESTÃO DE TEMPO, CUSTOS, RISCOS E COMUNICAÇÃO.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/aulas/10 - GESTÃO DE TEMPO, CUSTOS, RISCOS E COMUNICAÇÃO.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/leitura/4 - Leitura Metodologias de Design.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/leitura/9 - LEITURA PRINCIPIOS, STAKEHOLDERS E ESCOPO.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/aulas/9 - PRINCIPIOS, STAKEHOLDERS E ESCOPO.md",
+    "descomplica/disciplinas/modulo-1a/desenvolvimento-frontend/aulas/16 - ENTENDIMENTO DO CÓDIGO FONTE.md",
+    "descomplica/disciplinas/modulo-1a/desenvolvimento-frontend/aulas/15 - O QUE É INTERNET?.md",
+    "descomplica/disciplinas/modulo-1a/desenvolvimento-frontend/leitura/14 - LEITURA GITHUB PAGES.md",
+    "descomplica/disciplinas/modulo-1a/desenvolvimento-frontend/aulas/14 - GITHUB PAGES.md",
+    "descomplica/disciplinas/modulo-1a/desenvolvimento-frontend/leitura/13 - LEITURA VERSIONAMENTO DE CODIGO.md",
+    "descomplica/disciplinas/modulo-1a/desenvolvimento-dinamico/leitura/7 - Leitura Instrucoes For e While.md",
+    "boot-dev/1-learn-python/ch-3-functions/1 - FUNCTIONS.md",
+    "boot-dev/1-learn-python/ch-4-scope/2 - GLOBAL SCOPE.md",
+    "descomplica/disciplinas/modulo-1a/desenvolvimento-dinamico/aulas/10 - CLASSES.md",
+    "boot-dev/1-learn-python/ch-6-computing",
+    "boot-dev/1-learn-python/ch-5-testing-and-debugging",
+    "boot-dev/1-learn-python/ch-4-scope",
+    "boot-dev/1-learn-python/ch-3-functions",
+    "boot-dev/1-learn-python/ch-2-variables",
+    "boot-dev/1-learn-python/ch-1-introduction",
+    "boot-dev/1-learn-python",
+    "boot-dev",
+    "4-linux/538-containers-fundamentals"
+  ]
+}
