@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8beaab875e547144",
+        "id": "6f23c8270051d643",
         "type": "tabs",
         "children": [
           {
-            "id": "fd1437e5e64f20ad",
+            "id": "04ca8a766829c51a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "agilizei/cypress-direto-ao-ponto/1 - O QUE É O CYPRESS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "agilizei/cypress-direto-ao-ponto/1 - O QUE É O CYPRESS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "agilizei/cypress-direto-ao-ponto/1 - O QUE É O CYPRESS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "agilizei/cypress-direto-ao-ponto/1 - O QUE É O CYPRESS.md"
+              }
             }
           },
           {
@@ -183,6 +191,15 @@
   },
   "active": "c162b8697ac5c06a",
   "lastOpenFiles": [
+    "agilizei/cypress-direto-ao-ponto/2 - DOCUMENTACAO E CYPRESS ESSENCIAL MINDMAP.md",
+    "agilizei/cypress-direto-ao-ponto/6 - CONHECENDO O DEVFINANCE.md",
+    "agilizei/cypress-direto-ao-ponto/5 - ABRINDO O CYPRESS E CONHECENDO A ESTRUTURA PADRAO.md",
+    "KANBAN - CURSOS 2024.md",
+    "agilizei/cypress-direto-ao-ponto/4 - CRIANDO O PROJETO E INSTALANDO O CYPRESS.md",
+    "agilizei/cypress-direto-ao-ponto/3 - CONFIGURANDO O AMBIENTE COM NODE E VSCODE.md",
+    "agilizei/cypress-direto-ao-ponto/1 - O QUE É O CYPRESS.md",
+    "agilizei/cypress-direto-ao-ponto",
+    "agilizei",
     "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/metodologia-agil-nao-e-engessado.png",
     "README.md",
     "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/12-principios.png",
@@ -191,7 +208,6 @@
     "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/activity-agileux-sprints-scrum.png",
     "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/leitura/16 - LEITURA UX E AGILIDADE.md",
     "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/aulas/16 - UX E AGILIDADE.md",
-    "KANBAN - CURSOS 2024.md",
     "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/exemplo-2.png",
     "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/exemplo-1.png",
     "KANBAN - VR XUBUNTU.md",
@@ -216,18 +232,11 @@
     "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/leitura/10 - LEITURA GESTÃO DE TEMPO, CUSTOS, RISCOS E COMUNICAÇÃO.md",
     "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/aulas/10 - GESTÃO DE TEMPO, CUSTOS, RISCOS E COMUNICAÇÃO.md",
     "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/leitura/4 - Leitura Metodologias de Design.md",
-    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/leitura/9 - LEITURA PRINCIPIOS, STAKEHOLDERS E ESCOPO.md",
-    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/aulas/9 - PRINCIPIOS, STAKEHOLDERS E ESCOPO.md",
-    "descomplica/disciplinas/modulo-1a/desenvolvimento-frontend/aulas/16 - ENTENDIMENTO DO CÓDIGO FONTE.md",
-    "descomplica/disciplinas/modulo-1a/desenvolvimento-frontend/aulas/15 - O QUE É INTERNET?.md",
-    "descomplica/disciplinas/modulo-1a/desenvolvimento-frontend/leitura/14 - LEITURA GITHUB PAGES.md",
     "boot-dev/1-learn-python/ch-6-computing",
     "boot-dev/1-learn-python/ch-5-testing-and-debugging",
     "boot-dev/1-learn-python/ch-4-scope",
     "boot-dev/1-learn-python/ch-3-functions",
     "boot-dev/1-learn-python/ch-2-variables",
-    "boot-dev/1-learn-python/ch-1-introduction",
-    "boot-dev/1-learn-python",
-    "boot-dev"
+    "boot-dev/1-learn-python/ch-1-introduction"
   ]
 }
