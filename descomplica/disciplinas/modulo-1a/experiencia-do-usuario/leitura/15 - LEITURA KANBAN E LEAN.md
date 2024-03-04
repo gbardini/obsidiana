@@ -37,3 +37,5 @@ A partir do que foi apresentado nesta aula, em especial sobre Lean Startup, reco
 Sutherland, J; Sutherland J.J**. Scrum: a arte de fazer o dobro do trabalho na metade do tempo**. Rio de Janeiro: Sextante, 2019.
 
 Ries, Eric. **A Startup Enxuta. Como os empreendedores atuais utilizam a inovação contínua para criar empresas extremamente bem-sucedidas**. São Paulo: Lua de Papel, 2012.
+
+[[16 - UX E AGILIDADE]]

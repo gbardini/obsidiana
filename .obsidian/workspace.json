@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d46d969dfe045534",
+        "id": "8beaab875e547144",
         "type": "tabs",
         "children": [
           {
-            "id": "4e856636f1b8100c",
+            "id": "fd1437e5e64f20ad",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "KANBAN - VR XUBUNTU.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KANBAN - CURSOS 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KANBAN - CURSOS 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "KANBAN - CURSOS 2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,27 +181,31 @@
       }
     ]
   },
-  "active": "2f07aa7cdb32acc0",
+  "active": "c162b8697ac5c06a",
   "lastOpenFiles": [
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/metodologia-agil-nao-e-engessado.png",
+    "README.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/12-principios.png",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/semelhança-agileux-leanux.png",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/movimentos-para-agilidade-emocional.png",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/activity-agileux-sprints-scrum.png",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/leitura/16 - LEITURA UX E AGILIDADE.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/aulas/16 - UX E AGILIDADE.md",
+    "KANBAN - CURSOS 2024.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/exemplo-2.png",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/exemplo-1.png",
     "KANBAN - VR XUBUNTU.md",
     "KANBAN - VR CONFIG.md",
-    "KANBAN - CURSOS 2024.md",
-    "15 - LEITURA KANBAN E LEAN.md",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/ginasta-emocional.png",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/including-ux-agile.png",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/esteira-desenvolvimento.png",
+    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/leitura/15 - LEITURA KANBAN E LEAN.md",
+    "kanban-projects",
     "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/aulas/15 - KANBAN E LEAN.md",
-    "exemplo-caso-pratico-kanban.png",
-    "caso-kanban.png",
-    "scrumban.png",
     "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/aulas/12 - EXECUCAO E ENCERRAMENTO DE PROJETOS TRADICIONAIS.md",
     "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/leitura/14 - LEITURA PLANEJAMENTO E EXECUCAO DE UM PROJETO AGIL.md",
     "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/leitura/13 - LEITURA AGIL E SCRUM.md",
     "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/aulas/14 - PLANEJAMENTO E EXECUCAO DE UM PROJETO AGIL.md",
-    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/encerramento-projeto 1.png",
-    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/sprint-planning 1.png",
-    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/scrum-planning.png",
-    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/scrum-master-e-po.png",
-    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/refinamento-entrega.png",
-    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/quem-participa-scrum.png",
-    "descomplica/disciplinas/modulo-1a/experiencia-do-usuario/img/product-backlog 1.png",
     "tmp",
     "Sem título.canvas",
     "2024-03-03.md",
@@ -223,10 +221,6 @@
     "descomplica/disciplinas/modulo-1a/desenvolvimento-frontend/aulas/16 - ENTENDIMENTO DO CÓDIGO FONTE.md",
     "descomplica/disciplinas/modulo-1a/desenvolvimento-frontend/aulas/15 - O QUE É INTERNET?.md",
     "descomplica/disciplinas/modulo-1a/desenvolvimento-frontend/leitura/14 - LEITURA GITHUB PAGES.md",
-    "descomplica/disciplinas/modulo-1a/desenvolvimento-frontend/aulas/14 - GITHUB PAGES.md",
-    "descomplica/disciplinas/modulo-1a/desenvolvimento-frontend/leitura/13 - LEITURA VERSIONAMENTO DE CODIGO.md",
-    "descomplica/disciplinas/modulo-1a/desenvolvimento-dinamico/leitura/7 - Leitura Instrucoes For e While.md",
-    "boot-dev/1-learn-python/ch-3-functions/1 - FUNCTIONS.md",
     "boot-dev/1-learn-python/ch-6-computing",
     "boot-dev/1-learn-python/ch-5-testing-and-debugging",
     "boot-dev/1-learn-python/ch-4-scope",
@@ -234,7 +228,6 @@
     "boot-dev/1-learn-python/ch-2-variables",
     "boot-dev/1-learn-python/ch-1-introduction",
     "boot-dev/1-learn-python",
-    "boot-dev",
-    "4-linux/538-containers-fundamentals"
+    "boot-dev"
   ]
 }
