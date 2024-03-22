@@ -87,3 +87,5 @@ FLANAGAN, David. **JavaScript: O Guia Definitivo**. 6ª Ed. Porto Alegre: Bookm
 FREEMAN, Eric. **Use a cabeça!: programação JavaScript**. 1ª Ed. São Paulo: Alta Books, 2016.
 
 Ir para exercício
+
+[[11 - MANIPULANDO ELEMENTOS DO DOM]]
